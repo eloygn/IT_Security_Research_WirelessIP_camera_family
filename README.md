@@ -1,7 +1,7 @@
 # IT Security Research WirelessIP camera family
 New vulnerabilities have been found in the latest version of a family of IP-Cameras.
 
-TL;DR New vulnerabilities have been found in the latest version of a family of Chinesse IP-Cameras. These vulerabilities allows root access as well as access to their recordings to anyone on the same network. This family of cameras were previously researched by PierreKimFirst, who published 7 vulnerabilities for some 1200+ cameras [[1]](https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html).
+TL;DR New vulnerabilities have been found in the latest version of a family of Chinese IP-Cameras. These vulerabilities allows root access as well as access to their recordings to anyone on the same network. This family of cameras were previously researched by PierreKimFirst, who published 7 vulnerabilities for some 1200+ cameras [[1]](https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html).
 
 <p align=center> <img src="https://github.com/eloygn/IT_Security_Research_WirelessIP_camera_family/blob/master/images/WifiIPCamera360.jpg" width="300"> </p>
 
